@@ -14,12 +14,18 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Iqbal-87/leetcode/tree/master/0013-roman-to-integer) |
 | [1446-consecutive-characters](https://github.com/Iqbal-87/leetcode/tree/master/1446-consecutive-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Iqbal-87/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Iqbal-87/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Iqbal-87/leetcode/tree/master/0013-roman-to-integer) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Iqbal-87/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Iqbal-87/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Iqbal-87/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
