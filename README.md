@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Iqbal-87/leetcode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Iqbal-87/leetcode/tree/master/0189-rotate-array) |
 | [1929-concatenation-of-array](https://github.com/Iqbal-87/leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Iqbal-87/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Iqbal-87/leetcode/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
