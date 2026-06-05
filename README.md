@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Iqbal-87/leetcode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Iqbal-87/leetcode/tree/master/0189-rotate-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Iqbal-87/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1929-concatenation-of-array](https://github.com/Iqbal-87/leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Iqbal-87/leetcode/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Iqbal-87/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
