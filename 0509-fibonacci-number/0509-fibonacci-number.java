@@ -1,5 +1,3 @@
-// TIME COMPLEXITY FOR THIS ALGORITHM IS O(N)
-// SPACE COMPLEXITY FOR THIS ALGORITHM IS O(1)
 class Solution {
     public int fib(int n) {
         if(n<=1)
