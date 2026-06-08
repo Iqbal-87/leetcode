@@ -13,6 +13,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Iqbal-87/leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Iqbal-87/leetcode/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -27,6 +28,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Iqbal-87/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Iqbal-87/leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Iqbal-87/leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Iqbal-87/leetcode/tree/master/0509-fibonacci-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Iqbal-87/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Iqbal-87/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Iqbal-87/leetcode/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Iqbal-87/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
