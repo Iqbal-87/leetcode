@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Iqbal-87/leetcode/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/Iqbal-87/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/Iqbal-87/leetcode/tree/master/0709-to-lower-case) |
 | [1446-consecutive-characters](https://github.com/Iqbal-87/leetcode/tree/master/1446-consecutive-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Iqbal-87/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Iqbal-87/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Iqbal-87/leetcode/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/Iqbal-87/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Iqbal-87/leetcode/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Iqbal-87/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Iqbal-87/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
