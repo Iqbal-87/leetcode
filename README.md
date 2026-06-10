@@ -10,11 +10,13 @@
 | [0189-rotate-array](https://github.com/Iqbal-87/leetcode/tree/master/0189-rotate-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Iqbal-87/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1929-concatenation-of-array](https://github.com/Iqbal-87/leetcode/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/Iqbal-87/leetcode/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Iqbal-87/leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Iqbal-87/leetcode/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/Iqbal-87/leetcode/tree/master/2974-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -71,4 +73,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Iqbal-87/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Iqbal-87/leetcode/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Iqbal-87/leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
