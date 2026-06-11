@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Iqbal-87/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Iqbal-87/leetcode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Iqbal-87/leetcode/tree/master/0189-rotate-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Iqbal-87/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1929-concatenation-of-array](https://github.com/Iqbal-87/leetcode/tree/master/1929-concatenation-of-array) |
@@ -52,6 +53,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Iqbal-87/leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Iqbal-87/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Iqbal-87/leetcode/tree/master/2974-minimum-number-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Iqbal-87/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
