@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/Iqbal-87/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Iqbal-87/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/Iqbal-87/leetcode/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/Iqbal-87/leetcode/tree/master/2974-minimum-number-game) |
 ## Simulation
@@ -89,19 +90,38 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/Iqbal-87/leetcode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/Iqbal-87/leetcode/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Iqbal-87/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
