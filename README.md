@@ -15,6 +15,7 @@
 | [0704-binary-search](https://github.com/Iqbal-87/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Iqbal-87/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0912-sort-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Iqbal-87/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/Iqbal-87/leetcode/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/Iqbal-87/leetcode/tree/master/2974-minimum-number-game) |
 ## Simulation
@@ -91,6 +92,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Iqbal-87/leetcode/tree/master/0912-sort-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Iqbal-87/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2974-minimum-number-game](https://github.com/Iqbal-87/leetcode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
